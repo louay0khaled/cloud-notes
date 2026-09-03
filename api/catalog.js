@@ -1,8 +1,0 @@
-import * as cheerio from 'cheerio';
-const ORIGIN='https://mob4g.com', MAX_PAGES=205;
-const abs=v=>{try{return new URL(v,ORIGIN).toString()}catch{return ''}};
-const clean=v=>String(v??'').replace(/\s+/g,' ').trim();
-const num=v=>{const m=String(v||'').replace(/,/g,'').match(/(\d+(?:\.\d+)?)/);return m?Number(m[1]):0};
-const year=v=>{const m=clean(v).match(/\b(20\d{2})\b/);return m?Number(m[1]):0};
-function parse($,a){const url=abs($(a).attr('href'));if(!url.includes('/specs/'))return null;let card=$(a);for(let i=0;i<6;i++){const p=card.parent();if(!p.length)break;const t=clean(p.text());if(t.length>80&&/الشاشة|المعالج|البطارية|الرام|الذاكرة/i.test(t)){card=p;break}card=p}const raw=clean(card.text()),im=card.find('img').first();return{id:url.match(/\/specs\/([^/]+)\/?$/i)?.[1]||url,name:clean($(a).text().replace(/عرض الموصفات|عرض المواصفات|←/gi,'')),url,image:abs(im.attr('src')||im.attr('data-src')||im.attr('data-lazy-src')),price:num(raw.match(/(\d[\d,]*(?:\.\d+)?)\s*\$/)?.[1]),releaseYear:year(raw)}}
-export default async function handler(req,res){try{const page=Math.max(1,Math.min(MAX_PAGES,Number(req.query.page||1)));const url=page===1?ORIGIN+'/':`${ORIGIN}/page/${page}/`;const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 (compatible; Mob4gCatalogSync/1.0)'}});if(!r.ok)return res.status(r.status).json({ok:false,error:`mob4g HTTP ${r.status}`});const $=cheerio.load(await r.text()),m=new Map();$('a[href*="/specs/"]').each((_,a)=>{const x=parse($,a);if(x?.name)m.set(x.url,x)});res.status(200).json({ok:true,page,totalOnPage:m.size,items:[...m.values()]})}catch(e){res.status(500).json({ok:false,error:String(e?.message||e)})}}
