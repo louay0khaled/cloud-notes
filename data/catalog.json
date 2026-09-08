@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T16:43:55.848Z",
-  "count": 2005,
+  "generatedAt": "2026-09-08T21:17:59.654Z",
+  "count": 2006,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -574,7 +574,7 @@
       "name": "سعر ومواصفات بوكو M8x عيوب ومميزات Poco M8x",
       "url": "https://mob4g.com/specs/poco-m8x/",
       "image": "https://mob4g.com/",
-      "price": 220,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1169,6 +1169,15 @@
       "url": "https://mob4g.com/specs/samsung-galaxy-a07-5g/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "samsung-galaxy-a07s",
+      "name": "سعر ومواصفات سامسونج A07s عيوب ومميزات Samsung A07s",
+      "url": "https://mob4g.com/specs/samsung-galaxy-a07s/",
+      "image": "https://mob4g.com/",
+      "price": 165,
       "releaseYear": 2026,
       "verified": true
     },
