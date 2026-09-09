@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T16:46:09.269Z",
-  "count": 2172,
+  "generatedAt": "2026-09-09T21:08:35.749Z",
+  "count": 2174,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -476,6 +476,24 @@
       "url": "https://mob4g.com/specs/iphone-17e/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "name": "سعر ومواصفات ايفون 18 برو ماكس عيوب ومميزات iPhone 18 Pro Max",
+      "url": "https://mob4g.com/specs/iphone-18-pro-max/",
+      "image": "https://mob4g.com/",
+      "price": 1300,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "iphone-duo",
+      "name": "سعر ومواصفات ايفون ديو عيوب ومميزات iPhone Duo",
+      "url": "https://mob4g.com/specs/iphone-duo/",
+      "image": "https://mob4g.com/",
+      "price": 2000,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1222,7 +1240,7 @@
       "name": "سعر ومواصفات سامسونج S26 الترا عيوب ومميزات Samsung S26 Ultra",
       "url": "https://mob4g.com/specs/samsung-galaxy-s26-ultra/",
       "image": "https://mob4g.com/",
-      "price": 1300,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1690,7 +1708,7 @@
       "name": "سعر ومواصفات فيفو ايكو Z11S عيوب ومميزات Vivo iQOO Z11S",
       "url": "https://mob4g.com/specs/vivo-iqoo-z11s/",
       "image": "https://mob4g.com/",
-      "price": 295,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2194,7 +2212,7 @@
       "name": "سعر ومواصفات هونر باد X9b ماكس عيوب ومميزات Honor Pad X9b Max",
       "url": "https://mob4g.com/specs/honor-pad-x9b-max/",
       "image": "https://mob4g.com/",
-      "price": 265,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2275,7 +2293,7 @@
       "name": "سعر ومواصفات هونر ماجيك V6 عيوب ومميزات Honor Magic V6",
       "url": "https://mob4g.com/specs/honor-magic-v6/",
       "image": "https://mob4g.com/",
-      "price": 1650,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -16356,18 +16374,18 @@
       "verified": true
     },
     {
-      "id": "nokia-g21",
+      "id": "nokia-g11",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g21/",
+      "url": "https://mob4g.com/specs/nokia-g11/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
       "verified": true
     },
     {
-      "id": "nokia-g11",
+      "id": "nokia-g21",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g11/",
+      "url": "https://mob4g.com/specs/nokia-g21/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
