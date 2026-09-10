@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T11:27:10.916Z",
-  "count": 2174,
+  "generatedAt": "2026-09-10T16:29:55.211Z",
+  "count": 2175,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -476,6 +476,15 @@
       "url": "https://mob4g.com/specs/iphone-17e/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "iphone-18-pro",
+      "name": "سعر ومواصفات ايفون 18 برو عيوب ومميزات iPhone 18 Pro",
+      "url": "https://mob4g.com/specs/iphone-18-pro/",
+      "image": "https://mob4g.com/",
+      "price": 1200,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1753,7 +1762,7 @@
       "name": "سعر ومواصفات فيفو ايكو نيو 11 الترا عيوب ومميزات Vivo iQOO Neo 11 Ultra",
       "url": "https://mob4g.com/specs/vivo-iqoo-neo-11-ultra/",
       "image": "https://mob4g.com/",
-      "price": 550,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
