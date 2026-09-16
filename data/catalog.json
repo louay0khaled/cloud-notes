@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T11:42:08.144Z",
-  "count": 2175,
+  "generatedAt": "2026-09-16T17:04:56.185Z",
+  "count": 2177,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1209,6 +1209,24 @@
       "verified": true
     },
     {
+      "id": "samsung-galaxy-a08",
+      "name": "سعر ومواصفات سامسونج A08 عيوب ومميزات Samsung A08",
+      "url": "https://mob4g.com/specs/samsung-galaxy-a08/",
+      "image": "https://mob4g.com/",
+      "price": 170,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "samsung-galaxy-a18",
+      "name": "سعر ومواصفات سامسونج A18 عيوب ومميزات Samsung A18",
+      "url": "https://mob4g.com/specs/samsung-galaxy-a18/",
+      "image": "https://mob4g.com/",
+      "price": 280,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "samsung-galaxy-a27",
       "name": "سعر ومواصفات سامسونج A27 عيوب ومميزات Samsung A27",
       "url": "https://mob4g.com/specs/samsung-galaxy-a27/",
@@ -1546,7 +1564,7 @@
       "name": "سعر ومواصفات فيفو Y31t عيوب ومميزات Vivo Y31t",
       "url": "https://mob4g.com/specs/vivo-y31t/",
       "image": "https://mob4g.com/",
-      "price": 270,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1699,7 +1717,7 @@
       "name": "سعر ومواصفات فيفو ايكو Z11 نسخة الهند عيوب ومميزات Vivo iQOO Z11 India",
       "url": "https://mob4g.com/specs/vivo-iqoo-z11-india/",
       "image": "https://mob4g.com/",
-      "price": 365,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -4426,7 +4444,7 @@
       "name": "سعر ومواصفات ريدمي نوت 15 عيوب ومميزات Redmi Note 15",
       "url": "https://mob4g.com/specs/redmi-note-15/",
       "image": "https://mob4g.com/",
-      "price": 240,
+      "price": 0,
       "releaseYear": 2025,
       "verified": true
     },
@@ -16383,18 +16401,18 @@
       "verified": true
     },
     {
-      "id": "nokia-g11",
+      "id": "nokia-g21",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g11/",
+      "url": "https://mob4g.com/specs/nokia-g21/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
       "verified": true
     },
     {
-      "id": "nokia-g21",
+      "id": "nokia-g11",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g21/",
+      "url": "https://mob4g.com/specs/nokia-g11/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
