@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T11:53:45.380Z",
-  "count": 2177,
+  "generatedAt": "2026-09-24T17:17:57.530Z",
+  "count": 2179,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1250,6 +1250,24 @@
       "url": "https://mob4g.com/specs/samsung-galaxy-a57/",
       "image": "https://mob4g.com/",
       "price": 430,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "samsung-galaxy-f70-pro",
+      "name": "سعر ومواصفات سامسونج F70 برو عيوب ومميزات Samsung F70 Pro",
+      "url": "https://mob4g.com/specs/samsung-galaxy-f70-pro/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "samsung-galaxy-s26-fe",
+      "name": "سعر ومواصفات سامسونج FE S26 عيوب ومميزات Samsung S26 FE",
+      "url": "https://mob4g.com/specs/samsung-galaxy-s26-fe/",
+      "image": "https://mob4g.com/",
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
