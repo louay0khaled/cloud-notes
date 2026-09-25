@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T17:18:40.556Z",
-  "count": 2180,
+  "generatedAt": "2026-09-25T21:50:06.323Z",
+  "count": 2181,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -997,7 +997,7 @@
       "name": "سعر ومواصفات ريدمي نوت 17 5G عيوب ومميزات Redmi Note 17 5G",
       "url": "https://mob4g.com/specs/redmi-note-17-5g/",
       "image": "https://mob4g.com/",
-      "price": 245,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1380,6 +1380,15 @@
       "verified": true
     },
     {
+      "id": "xiaomi-18-pro",
+      "name": "سعر ومواصفات شاومي 18 برو عيوب ومميزات Xiaomi 18 Pro",
+      "url": "https://mob4g.com/specs/xiaomi-18-pro/",
+      "image": "https://mob4g.com/",
+      "price": 890,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "xiaomi-18-pro-max",
       "name": "سعر ومواصفات شاومي 18 برو ماكس عيوب ومميزات Xiaomi 18 Pro Max",
       "url": "https://mob4g.com/specs/xiaomi-18-pro-max/",
@@ -1546,7 +1555,7 @@
       "name": "سعر ومواصفات فيفو X300 الترا عيوب ومميزات Vivo X300 Ultra",
       "url": "https://mob4g.com/specs/vivo-x300-ultra/",
       "image": "https://mob4g.com/",
-      "price": 1000,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
