@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T11:57:45.653Z",
-  "count": 2179,
+  "generatedAt": "2026-09-25T17:18:40.556Z",
+  "count": 2180,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -430,7 +430,7 @@
       "name": "سعر ومواصفات اوبو فايند N6 عيوب ومميزات Oppo Find N6",
       "url": "https://mob4g.com/specs/oppo-find-n6/",
       "image": "https://mob4g.com/",
-      "price": 1750,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1033,7 +1033,7 @@
       "name": "سعر ومواصفات ريدمي نوت 17 عيوب ومميزات Redmi Note 17",
       "url": "https://mob4g.com/specs/redmi-note-17/",
       "image": "https://mob4g.com/",
-      "price": 185,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1376,6 +1376,15 @@
       "url": "https://mob4g.com/specs/xiaomi-17-max/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "xiaomi-18-pro-max",
+      "name": "سعر ومواصفات شاومي 18 برو ماكس عيوب ومميزات Xiaomi 18 Pro Max",
+      "url": "https://mob4g.com/specs/xiaomi-18-pro-max/",
+      "image": "https://mob4g.com/",
+      "price": 1040,
       "releaseYear": 2026,
       "verified": true
     },
