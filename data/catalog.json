@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T11:31:08.285Z",
-  "count": 2181,
+  "generatedAt": "2026-09-26T16:40:12.891Z",
+  "count": 2182,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1555,7 +1555,7 @@
       "name": "سعر ومواصفات فيفو X300 الترا عيوب ومميزات Vivo X300 Ultra",
       "url": "https://mob4g.com/specs/vivo-x300-ultra/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 1000,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1574,6 +1574,15 @@
       "url": "https://mob4g.com/specs/vivo-x300s/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-x500-pro-max",
+      "name": "سعر ومواصفات فيفو X500 برو ماكس عيوب ومميزات Vivo X500 Pro Max",
+      "url": "https://mob4g.com/specs/vivo-x500-pro-max/",
+      "image": "https://mob4g.com/",
+      "price": 1040,
       "releaseYear": 2026,
       "verified": true
     },
