@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T13:01:45.764Z",
-  "count": 2184,
+  "generatedAt": "2026-09-29T22:28:05.029Z",
+  "count": 2185,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -435,6 +435,15 @@
       "verified": true
     },
     {
+      "id": "oppo-find-x10-pro-max",
+      "name": "سعر ومواصفات اوبو فايند X10 برو ماكس عيوب ومميزات Oppo Find X10 Pro Max",
+      "url": "https://mob4g.com/specs/oppo-find-x10-pro-max/",
+      "image": "https://mob4g.com/",
+      "price": 1015,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "oppo-find-x9-ultra",
       "name": "سعر ومواصفات اوبو فايند X9 الترا عيوب ومميزات Oppo Find X9 Ultra",
       "url": "https://mob4g.com/specs/oppo-find-x9-ultra/",
@@ -547,7 +556,7 @@
       "name": "سعر ومواصفات بوكو F9 الترا عيوب ومميزات Poco F9 Ultra",
       "url": "https://mob4g.com/specs/poco-f9-ultra/",
       "image": "https://mob4g.com/",
-      "price": 815,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1987,7 +1996,7 @@
       "name": "سعر ومواصفات هواوي بيورا 90 برو ماكس عيوب ومميزات Huawei Pura 90 Pro Max",
       "url": "https://mob4g.com/specs/huawei-pura-90-pro-max/",
       "image": "https://mob4g.com/",
-      "price": 950,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
