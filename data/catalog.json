@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T13:25:38.332Z",
-  "count": 2186,
+  "generatedAt": "2026-10-01T22:45:50.347Z",
+  "count": 2189,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -565,7 +565,7 @@
       "name": "سعر ومواصفات بوكو F9 برو عيوب ومميزات Poco F9 Pro",
       "url": "https://mob4g.com/specs/poco-f9-pro/",
       "image": "https://mob4g.com/",
-      "price": 690,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -615,6 +615,15 @@
       "verified": true
     },
     {
+      "id": "poco-x8-power",
+      "name": "سعر ومواصفات بوكو X8 باور عيوب ومميزات Poco X8 Power",
+      "url": "https://mob4g.com/specs/poco-x8-power/",
+      "image": "https://mob4g.com/",
+      "price": 375,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "poco-x8-pro",
       "name": "سعر ومواصفات بوكو X8 برو عيوب ومميزات Poco X8 Pro",
       "url": "https://mob4g.com/specs/poco-x8-pro/",
@@ -629,6 +638,15 @@
       "url": "https://mob4g.com/specs/poco-x8-pro-max/",
       "image": "https://mob4g.com/",
       "price": 435,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "poco-x8",
+      "name": "سعر ومواصفات بوكو X8 عيوب ومميزات Poco X8",
+      "url": "https://mob4g.com/specs/poco-x8/",
+      "image": "https://mob4g.com/",
+      "price": 355,
       "releaseYear": 2026,
       "verified": true
     },
@@ -861,6 +879,15 @@
       "id": "redmi-17-5g",
       "name": "سعر ومواصفات ريدمي 5G 17 عيوب ومميزات Redmi 17 5G",
       "url": "https://mob4g.com/specs/redmi-17-5g/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "redmi-17c-5g",
+      "name": "سعر ومواصفات ريدمي 5G 17C عيوب ومميزات Redmi 17C 5G",
+      "url": "https://mob4g.com/specs/redmi-17c-5g/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
