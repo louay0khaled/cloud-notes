@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T05:46:27.959Z",
-  "count": 2189,
+  "generatedAt": "2026-10-02T22:27:59.410Z",
+  "count": 2190,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -556,7 +556,7 @@
       "name": "سعر ومواصفات بوكو F9 الترا عيوب ومميزات Poco F9 Ultra",
       "url": "https://mob4g.com/specs/poco-f9-ultra/",
       "image": "https://mob4g.com/",
-      "price": 815,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1430,6 +1430,15 @@
       "url": "https://mob4g.com/specs/xiaomi-18-pro-max/",
       "image": "https://mob4g.com/",
       "price": 1040,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "xiaomi-pad-9-pro-max",
+      "name": "سعر ومواصفات شاومي باد 9 برو ماكس عيوب ومميزات Xiaomi Pad 9 Pro Max",
+      "url": "https://mob4g.com/specs/xiaomi-pad-9-pro-max/",
+      "image": "https://mob4g.com/",
+      "price": 715,
       "releaseYear": 2026,
       "verified": true
     },
@@ -16509,18 +16518,18 @@
       "verified": true
     },
     {
-      "id": "nokia-g11",
+      "id": "nokia-g21",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g11/",
+      "url": "https://mob4g.com/specs/nokia-g21/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
       "verified": true
     },
     {
-      "id": "nokia-g21",
+      "id": "nokia-g11",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g21/",
+      "url": "https://mob4g.com/specs/nokia-g11/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
