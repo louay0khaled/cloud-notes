@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T11:48:30.456Z",
-  "count": 2190,
+  "generatedAt": "2026-10-03T16:23:52.741Z",
+  "count": 2191,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -646,7 +646,7 @@
       "name": "سعر ومواصفات بوكو X8 عيوب ومميزات Poco X8",
       "url": "https://mob4g.com/specs/poco-x8/",
       "image": "https://mob4g.com/",
-      "price": 355,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1430,6 +1430,15 @@
       "url": "https://mob4g.com/specs/xiaomi-18-pro-max/",
       "image": "https://mob4g.com/",
       "price": 1040,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "xiaomi-18-fold",
+      "name": "سعر ومواصفات شاومي 18 فولد عيوب ومميزات Xiaomi 18 Fold",
+      "url": "https://mob4g.com/specs/xiaomi-18-fold/",
+      "image": "https://mob4g.com/",
+      "price": 1640,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2437,7 +2446,7 @@
       "name": "سعر ومواصفات هونر ماجيك V6 عيوب ومميزات Honor Magic V6",
       "url": "https://mob4g.com/specs/honor-magic-v6/",
       "image": "https://mob4g.com/",
-      "price": 1650,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -16518,18 +16527,18 @@
       "verified": true
     },
     {
-      "id": "nokia-g21",
+      "id": "nokia-g11",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g21/",
+      "url": "https://mob4g.com/specs/nokia-g11/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
       "verified": true
     },
     {
-      "id": "nokia-g11",
+      "id": "nokia-g21",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g11/",
+      "url": "https://mob4g.com/specs/nokia-g21/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
