@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T12:37:40.744Z",
-  "count": 2192,
+  "generatedAt": "2026-10-04T21:38:05.438Z",
+  "count": 2194,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1452,11 +1452,29 @@
       "verified": true
     },
     {
+      "id": "xiaomi-pad-9-pro",
+      "name": "سعر ومواصفات شاومي باد 9 برو عيوب ومميزات Xiaomi Pad 9 Pro",
+      "url": "https://mob4g.com/specs/xiaomi-pad-9-pro/",
+      "image": "https://mob4g.com/",
+      "price": 565,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "xiaomi-pad-9-pro-max",
       "name": "سعر ومواصفات شاومي باد 9 برو ماكس عيوب ومميزات Xiaomi Pad 9 Pro Max",
       "url": "https://mob4g.com/specs/xiaomi-pad-9-pro-max/",
       "image": "https://mob4g.com/",
-      "price": 715,
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "xiaomi-pad-9",
+      "name": "سعر ومواصفات شاومي باد 9 عيوب ومميزات Xiaomi Pad 9",
+      "url": "https://mob4g.com/specs/xiaomi-pad-9/",
+      "image": "https://mob4g.com/",
+      "price": 445,
       "releaseYear": 2026,
       "verified": true
     },
