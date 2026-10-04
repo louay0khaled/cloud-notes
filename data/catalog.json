@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T21:24:20.100Z",
-  "count": 2191,
+  "generatedAt": "2026-10-04T06:10:09.372Z",
+  "count": 2192,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -552,6 +552,15 @@
       "verified": true
     },
     {
+      "id": "poco-c95-pro",
+      "name": "سعر ومواصفات بوكو C95 برو عيوب ومميزات Poco C95 Pro",
+      "url": "https://mob4g.com/specs/poco-c95-pro/",
+      "image": "https://mob4g.com/",
+      "price": 225,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "poco-f9-ultra",
       "name": "سعر ومواصفات بوكو F9 الترا عيوب ومميزات Poco F9 Ultra",
       "url": "https://mob4g.com/specs/poco-f9-ultra/",
@@ -619,7 +628,7 @@
       "name": "سعر ومواصفات بوكو X8 باور عيوب ومميزات Poco X8 Power",
       "url": "https://mob4g.com/specs/poco-x8-power/",
       "image": "https://mob4g.com/",
-      "price": 375,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
