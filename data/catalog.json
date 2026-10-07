@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T18:33:59.951Z",
-  "count": 2194,
+  "generatedAt": "2026-10-07T06:07:10.392Z",
+  "count": 2196,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1479,6 +1479,15 @@
       "verified": true
     },
     {
+      "id": "vivo-t5-5g",
+      "name": "سعر ومواصفات فيفو 5G T5 عيوب ومميزات Vivo T5 5G",
+      "url": "https://mob4g.com/specs/vivo-t5-5g/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "vivo-y11-5g",
       "name": "سعر ومواصفات فيفو 5G Y11 عيوب ومميزات Vivo Y11 5G",
       "url": "https://mob4g.com/specs/vivo-y11-5g/",
@@ -1590,6 +1599,15 @@
       "id": "vivo-v70",
       "name": "سعر ومواصفات فيفو V70 عيوب ومميزات Vivo V70",
       "url": "https://mob4g.com/specs/vivo-v70/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-v70-lite-5g",
+      "name": "سعر ومواصفات فيفو V70 لايت 5G عيوب ومميزات Vivo V70 Lite 5G",
+      "url": "https://mob4g.com/specs/vivo-v70-lite-5g/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
@@ -16554,18 +16572,18 @@
       "verified": true
     },
     {
-      "id": "nokia-g21",
+      "id": "nokia-g11",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g21/",
+      "url": "https://mob4g.com/specs/nokia-g11/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
       "verified": true
     },
     {
-      "id": "nokia-g11",
+      "id": "nokia-g21",
       "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/nokia-g11/",
+      "url": "https://mob4g.com/specs/nokia-g21/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
