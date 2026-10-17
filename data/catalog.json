@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T10:52:10.484Z",
-  "count": 2196,
+  "generatedAt": "2026-10-17T15:41:19.672Z",
+  "count": 2197,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1617,6 +1617,15 @@
       "id": "vivo-v70-lite",
       "name": "سعر ومواصفات فيفو V70 لايت عيوب ومميزات Vivo V70 Lite",
       "url": "https://mob4g.com/specs/vivo-v70-lite/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-v80-lite",
+      "name": "سعر ومواصفات فيفو V80 لايت عيوب ومميزات Vivo V80 Lite",
+      "url": "https://mob4g.com/specs/vivo-v80-lite/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
