@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T15:41:19.672Z",
-  "count": 2197,
+  "generatedAt": "2026-10-17T20:50:42.605Z",
+  "count": 2198,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -556,7 +556,7 @@
       "name": "سعر ومواصفات بوكو C95 برو عيوب ومميزات Poco C95 Pro",
       "url": "https://mob4g.com/specs/poco-c95-pro/",
       "image": "https://mob4g.com/",
-      "price": 225,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1700,6 +1700,15 @@
       "url": "https://mob4g.com/specs/vivo-x500-pro-max/",
       "image": "https://mob4g.com/",
       "price": 1040,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-x500",
+      "name": "سعر ومواصفات فيفو X500 عيوب ومميزات Vivo X500",
+      "url": "https://mob4g.com/specs/vivo-x500/",
+      "image": "https://mob4g.com/",
+      "price": 820,
       "releaseYear": 2026,
       "verified": true
     },
