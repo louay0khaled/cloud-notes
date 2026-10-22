@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T21:56:05.769Z",
-  "count": 2198,
+  "generatedAt": "2026-10-22T05:05:30.775Z",
+  "count": 2199,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1249,7 +1249,7 @@
       "name": "سعر ومواصفات سامسونج A07s عيوب ومميزات Samsung A07s",
       "url": "https://mob4g.com/specs/samsung-galaxy-a07s/",
       "image": "https://mob4g.com/",
-      "price": 165,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1808,6 +1808,15 @@
       "url": "https://mob4g.com/specs/vivo-y600-turbo/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-y600i",
+      "name": "سعر ومواصفات فيفو Y600i عيوب ومميزات Vivo Y600i",
+      "url": "https://mob4g.com/specs/vivo-y600i/",
+      "image": "https://mob4g.com/",
+      "price": 255,
       "releaseYear": 2026,
       "verified": true
     },
