@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T11:10:47.130Z",
-  "count": 2199,
+  "generatedAt": "2026-10-24T16:03:36.558Z",
+  "count": 2200,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -430,7 +430,7 @@
       "name": "سعر ومواصفات اوبو فايند N6 عيوب ومميزات Oppo Find N6",
       "url": "https://mob4g.com/specs/oppo-find-n6/",
       "image": "https://mob4g.com/",
-      "price": 1750,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -493,7 +493,7 @@
       "name": "سعر ومواصفات ايفون 18 برو عيوب ومميزات iPhone 18 Pro",
       "url": "https://mob4g.com/specs/iphone-18-pro/",
       "image": "https://mob4g.com/",
-      "price": 1200,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1853,6 +1853,15 @@
       "url": "https://mob4g.com/specs/vivo-iqoo-15t/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-iqoo-16",
+      "name": "سعر ومواصفات فيفو ايكو 16 عيوب ومميزات Vivo iQOO 16",
+      "url": "https://mob4g.com/specs/vivo-iqoo-16/",
+      "image": "https://mob4g.com/",
+      "price": 900,
       "releaseYear": 2026,
       "verified": true
     },
