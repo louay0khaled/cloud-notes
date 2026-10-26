@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T13:13:50.878Z",
-  "count": 2200,
+  "generatedAt": "2026-10-26T23:02:11.070Z",
+  "count": 2194,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -489,15 +489,6 @@
       "verified": true
     },
     {
-      "id": "iphone-18-pro",
-      "name": "سعر ومواصفات ايفون 18 برو عيوب ومميزات iPhone 18 Pro",
-      "url": "https://mob4g.com/specs/iphone-18-pro/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
       "id": "iphone-18-pro-max",
       "name": "سعر ومواصفات ايفون 18 برو ماكس عيوب ومميزات iPhone 18 Pro Max",
       "url": "https://mob4g.com/specs/iphone-18-pro-max/",
@@ -546,15 +537,6 @@
       "id": "poco-c85x",
       "name": "سعر ومواصفات بوكو C85x عيوب ومميزات Poco C85x",
       "url": "https://mob4g.com/specs/poco-c85x/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
-      "id": "poco-c95-pro",
-      "name": "سعر ومواصفات بوكو C95 برو عيوب ومميزات Poco C95 Pro",
-      "url": "https://mob4g.com/specs/poco-c95-pro/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
@@ -618,15 +600,6 @@
       "id": "poco-m8x",
       "name": "سعر ومواصفات بوكو M8x عيوب ومميزات Poco M8x",
       "url": "https://mob4g.com/specs/poco-m8x/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
-      "id": "poco-x8-power",
-      "name": "سعر ومواصفات بوكو X8 باور عيوب ومميزات Poco X8 Power",
-      "url": "https://mob4g.com/specs/poco-x8-power/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
@@ -1245,15 +1218,6 @@
       "verified": true
     },
     {
-      "id": "samsung-galaxy-a07s",
-      "name": "سعر ومواصفات سامسونج A07s عيوب ومميزات Samsung A07s",
-      "url": "https://mob4g.com/specs/samsung-galaxy-a07s/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
       "id": "samsung-galaxy-a08",
       "name": "سعر ومواصفات سامسونج A08 عيوب ومميزات Samsung A08",
       "url": "https://mob4g.com/specs/samsung-galaxy-a08/",
@@ -1479,15 +1443,6 @@
       "verified": true
     },
     {
-      "id": "vivo-t5-5g",
-      "name": "سعر ومواصفات فيفو 5G T5 عيوب ومميزات Vivo T5 5G",
-      "url": "https://mob4g.com/specs/vivo-t5-5g/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
       "id": "vivo-y11-5g",
       "name": "سعر ومواصفات فيفو 5G Y11 عيوب ومميزات Vivo Y11 5G",
       "url": "https://mob4g.com/specs/vivo-y11-5g/",
@@ -1617,15 +1572,6 @@
       "id": "vivo-v70-lite",
       "name": "سعر ومواصفات فيفو V70 لايت عيوب ومميزات Vivo V70 Lite",
       "url": "https://mob4g.com/specs/vivo-v70-lite/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
-      "id": "vivo-v80-lite",
-      "name": "سعر ومواصفات فيفو V80 لايت عيوب ومميزات Vivo V80 Lite",
-      "url": "https://mob4g.com/specs/vivo-v80-lite/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
