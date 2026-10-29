@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T22:40:42.094Z",
-  "count": 2194,
+  "generatedAt": "2026-10-29T05:54:00.165Z",
+  "count": 2196,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -600,6 +600,15 @@
       "id": "poco-m8x",
       "name": "سعر ومواصفات بوكو M8x عيوب ومميزات Poco M8x",
       "url": "https://mob4g.com/specs/poco-m8x/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "poco-x8-power",
+      "name": "سعر ومواصفات بوكو X8 باور عيوب ومميزات Poco X8 Power",
+      "url": "https://mob4g.com/specs/poco-x8-power/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
@@ -1907,6 +1916,15 @@
       "url": "https://mob4g.com/specs/vivo-iqoo-pad-6-pro/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-iqoo-pad-ultra",
+      "name": "سعر ومواصفات فيفو ايكو باد الترا عيوب ومميزات Vivo iQOO Pad Ultra",
+      "url": "https://mob4g.com/specs/vivo-iqoo-pad-ultra/",
+      "image": "https://mob4g.com/",
+      "price": 975,
       "releaseYear": 2026,
       "verified": true
     },
