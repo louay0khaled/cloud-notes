@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T12:41:03.397Z",
-  "count": 2200,
+  "generatedAt": "2026-10-31T21:41:25.414Z",
+  "count": 2205,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -543,6 +543,15 @@
       "verified": true
     },
     {
+      "id": "poco-c95-pro",
+      "name": "سعر ومواصفات بوكو C95 برو عيوب ومميزات Poco C95 Pro",
+      "url": "https://mob4g.com/specs/poco-c95-pro/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "poco-f9-ultra",
       "name": "سعر ومواصفات بوكو F9 الترا عيوب ومميزات Poco F9 Ultra",
       "url": "https://mob4g.com/specs/poco-f9-ultra/",
@@ -556,7 +565,7 @@
       "name": "سعر ومواصفات بوكو F9 برو عيوب ومميزات Poco F9 Pro",
       "url": "https://mob4g.com/specs/poco-f9-pro/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 690,
       "releaseYear": 2026,
       "verified": true
     },
@@ -619,7 +628,7 @@
       "name": "سعر ومواصفات بوكو X8 برو عيوب ومميزات Poco X8 Pro",
       "url": "https://mob4g.com/specs/poco-x8-pro/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 330,
       "releaseYear": 2026,
       "verified": true
     },
@@ -925,7 +934,7 @@
       "name": "سعر ومواصفات ريدمي K100 برو عيوب ومميزات Redmi K100 Pro",
       "url": "https://mob4g.com/specs/redmi-k100-pro/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 550,
       "releaseYear": 2026,
       "verified": true
     },
@@ -934,7 +943,7 @@
       "name": "سعر ومواصفات ريدمي K100 برو ماكس عيوب ومميزات Redmi K100 Pro Max",
       "url": "https://mob4g.com/specs/redmi-k100-pro-max/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 620,
       "releaseYear": 2026,
       "verified": true
     },
@@ -943,7 +952,7 @@
       "name": "سعر ومواصفات ريدمي K90 الترا عيوب ومميزات Redmi K90 Ultra",
       "url": "https://mob4g.com/specs/redmi-k90-ultra/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 440,
       "releaseYear": 2026,
       "verified": true
     },
@@ -952,7 +961,7 @@
       "name": "سعر ومواصفات ريدمي K90 ماكس عيوب ومميزات Redmi K90 Max",
       "url": "https://mob4g.com/specs/redmi-k90-max/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 470,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1227,6 +1236,15 @@
       "verified": true
     },
     {
+      "id": "samsung-galaxy-a07s",
+      "name": "سعر ومواصفات سامسونج A07s عيوب ومميزات Samsung A07s",
+      "url": "https://mob4g.com/specs/samsung-galaxy-a07s/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "samsung-galaxy-a18",
       "name": "سعر ومواصفات سامسونج A18 عيوب ومميزات Samsung A18",
       "url": "https://mob4g.com/specs/samsung-galaxy-a18/",
@@ -1384,7 +1402,7 @@
       "name": "سعر ومواصفات شاومي 17 ماكس عيوب ومميزات Xiaomi 17 Max",
       "url": "https://mob4g.com/specs/xiaomi-17-max/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 710,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1420,7 +1438,7 @@
       "name": "سعر ومواصفات شاومي باد 9 برو عيوب ومميزات Xiaomi Pad 9 Pro",
       "url": "https://mob4g.com/specs/xiaomi-pad-9-pro/",
       "image": "https://mob4g.com/",
-      "price": 565,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1438,7 +1456,7 @@
       "name": "سعر ومواصفات شاومي باد 9 عيوب ومميزات Xiaomi Pad 9",
       "url": "https://mob4g.com/specs/xiaomi-pad-9/",
       "image": "https://mob4g.com/",
-      "price": 445,
+      "price": 0,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1803,6 +1821,15 @@
       "verified": true
     },
     {
+      "id": "vivo-y600",
+      "name": "سعر ومواصفات فيفو Y600 عيوب ومميزات Vivo Y600",
+      "url": "https://mob4g.com/specs/vivo-y600/",
+      "image": "https://mob4g.com/",
+      "price": 300,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "vivo-y600i",
       "name": "سعر ومواصفات فيفو Y600i عيوب ومميزات Vivo Y600i",
       "url": "https://mob4g.com/specs/vivo-y600i/",
@@ -1843,7 +1870,7 @@
       "name": "سعر ومواصفات فيفو ايكو 15T عيوب ومميزات Vivo iQOO 15T",
       "url": "https://mob4g.com/specs/vivo-iqoo-15t/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 590,
       "releaseYear": 2026,
       "verified": true
     },
@@ -1965,11 +1992,29 @@
       "verified": true
     },
     {
+      "id": "vivo-iqoo-pad-pro-8-8",
+      "name": "سعر ومواصفات فيفو ايكو باد برو 8.8 عيوب ومميزات Vivo iQOO Pad Pro 8.8",
+      "url": "https://mob4g.com/specs/vivo-iqoo-pad-pro-8-8/",
+      "image": "https://mob4g.com/",
+      "price": 645,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "vivo-iqoo-neo-11-ultra",
       "name": "سعر ومواصفات فيفو ايكو نيو 11 الترا عيوب ومميزات Vivo iQOO Neo 11 Ultra",
       "url": "https://mob4g.com/specs/vivo-iqoo-neo-11-ultra/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "vivo-iqoo-neo-12",
+      "name": "سعر ومواصفات فيفو ايكو نيو 12 عيوب ومميزات Vivo iQOO Neo 12",
+      "url": "https://mob4g.com/specs/vivo-iqoo-neo-12/",
+      "image": "https://mob4g.com/",
+      "price": 660,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2194,7 +2239,7 @@
       "name": "سعر ومواصفات هواوي نوفا 16 الترا عيوب ومميزات Huawei Nova 16 Ultra",
       "url": "https://mob4g.com/specs/huawei-nova-16-ultra/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 695,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2257,7 +2302,7 @@
       "name": "سعر ومواصفات هونر 600 برو نسخة الصين عيوب ومميزات Honor 600 Pro China",
       "url": "https://mob4g.com/specs/honor-600-pro-china/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 575,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2293,7 +2338,7 @@
       "name": "سعر ومواصفات هونر 600 نسخة الصين عيوب ومميزات Honor 600 China",
       "url": "https://mob4g.com/specs/honor-600-china/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 485,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2347,7 +2392,7 @@
       "name": "سعر ومواصفات هونر X70 برو ماكس عيوب ومميزات Honor X70 Pro Max",
       "url": "https://mob4g.com/specs/honor-x70-pro-max/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 295,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2356,7 +2401,7 @@
       "name": "سعر ومواصفات هونر X70 ريفريش عيوب ومميزات Honor X70 Refresh",
       "url": "https://mob4g.com/specs/honor-x70-refresh/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 250,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2383,7 +2428,7 @@
       "name": "سعر ومواصفات هونر X80 برو ماكس عيوب ومميزات Honor X80 Pro Max",
       "url": "https://mob4g.com/specs/honor-x80-pro-max/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 295,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2563,7 +2608,7 @@
       "name": "سعر ومواصفات وان بلس 15T عيوب ومميزات OnePlus 15T",
       "url": "https://mob4g.com/specs/oneplus-15t/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 625,
       "releaseYear": 2026,
       "verified": true
     },
@@ -2590,7 +2635,7 @@
       "name": "سعر ومواصفات وان بلس نورد 6 عيوب ومميزات OnePlus Nord 6",
       "url": "https://mob4g.com/specs/oneplus-nord-6/",
       "image": "https://mob4g.com/",
-      "price": 0,
+      "price": 415,
       "releaseYear": 2026,
       "verified": true
     },
