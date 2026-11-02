@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T22:09:59.892Z",
-  "count": 2205,
+  "generatedAt": "2026-11-02T06:24:52.226Z",
+  "count": 2206,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -9795,6 +9795,15 @@
       "verified": true
     },
     {
+      "id": "samsung-galaxy-tab-active-5",
+      "name": "سعر ومواصفات Samsung Galaxy Tab Active 5 عيوب ومميزات",
+      "url": "https://mob4g.com/specs/samsung-galaxy-tab-active-5/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2024,
+      "verified": true
+    },
+    {
       "id": "samsung-galaxy-tab-s10-plus",
       "name": "سعر ومواصفات Samsung Galaxy Tab S10 Plus عيوب ومميزات سامسونج تاب S10 بلس",
       "url": "https://mob4g.com/specs/samsung-galaxy-tab-s10-plus/",
@@ -13035,6 +13044,15 @@
       "verified": true
     },
     {
+      "id": "xiaomi-poco-c50",
+      "name": "سعر ومواصفات Poco C50 عيوب ومميزات",
+      "url": "https://mob4g.com/specs/xiaomi-poco-c50/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2023,
+      "verified": true
+    },
+    {
       "id": "poco-c51",
       "name": "سعر ومواصفات Poco C51 عيوب ومميزات",
       "url": "https://mob4g.com/specs/poco-c51/",
@@ -13803,15 +13821,6 @@
       "id": "samsung-galaxy-tab-a9",
       "name": "سعر ومواصفات Samsung Galaxy Tab A9 عيوب ومميزات سامسونج تاب A9",
       "url": "https://mob4g.com/specs/samsung-galaxy-tab-a9/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2023,
-      "verified": true
-    },
-    {
-      "id": "samsung-galaxy-tab-active-5",
-      "name": "سعر ومواصفات Samsung Galaxy Tab Active 5 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/samsung-galaxy-tab-active-5/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2023,
@@ -16654,7 +16663,7 @@
     },
     {
       "id": "nokia-g11",
-      "name": "سعر ومواصفات Nokia G21 عيوب ومميزات",
+      "name": "سعر ومواصفات Nokia G11 عيوب ومميزات",
       "url": "https://mob4g.com/specs/nokia-g11/",
       "image": "https://mob4g.com/",
       "price": 0,
@@ -17340,15 +17349,6 @@
       "id": "xiaomi-poco-c40",
       "name": "سعر ومواصفات Poco C40 عيوب ومميزات",
       "url": "https://mob4g.com/specs/xiaomi-poco-c40/",
-      "image": "https://mob4g.com/",
-      "price": 0,
-      "releaseYear": 2022,
-      "verified": true
-    },
-    {
-      "id": "xiaomi-poco-c50",
-      "name": "سعر ومواصفات Poco C50 عيوب ومميزات",
-      "url": "https://mob4g.com/specs/xiaomi-poco-c50/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
@@ -19599,6 +19599,15 @@
       "id": "xiaomi-12t",
       "name": "سعر ومواصفات Xiaomi 12T عيوب ومميزات",
       "url": "https://mob4g.com/specs/xiaomi-12t/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2022,
+      "verified": true
+    },
+    {
+      "id": "xiaomi-12x",
+      "name": "سعر ومواصفات Xiaomi 12X عيوب ومميزات",
+      "url": "https://mob4g.com/specs/xiaomi-12x/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2022,
