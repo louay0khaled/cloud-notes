@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T14:30:21.586Z",
-  "count": 2206,
+  "generatedAt": "2026-11-03T23:38:16.826Z",
+  "count": 2207,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -2454,6 +2454,15 @@
       "id": "honor-pad-10-pro",
       "name": "سعر ومواصفات هونر باد 10 برو عيوب ومميزات Honor Pad 10 Pro",
       "url": "https://mob4g.com/specs/honor-pad-10-pro/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "honor-pad-20-pro",
+      "name": "سعر ومواصفات هونر باد 20 برو عيوب ومميزات Honor Pad 20 Pro",
+      "url": "https://mob4g.com/specs/honor-pad-20-pro/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
