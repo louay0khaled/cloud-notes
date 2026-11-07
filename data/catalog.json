@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T19:31:06.999Z",
-  "count": 2206,
+  "generatedAt": "2026-11-07T06:06:52.850Z",
+  "count": 2207,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -2382,6 +2382,15 @@
       "id": "honor-x70-refresh",
       "name": "سعر ومواصفات هونر X70 ريفريش عيوب ومميزات Honor X70 Refresh",
       "url": "https://mob4g.com/specs/honor-x70-refresh/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "honor-x7e-plus-5g",
+      "name": "سعر ومواصفات هونر X7e بلس 5G عيوب ومميزات Honor X7e Plus 5G",
+      "url": "https://mob4g.com/specs/honor-x7e-plus-5g/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
