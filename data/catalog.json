@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T06:33:50.385Z",
-  "count": 2208,
+  "generatedAt": "2026-11-11T19:43:18.137Z",
+  "count": 2211,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -483,6 +483,24 @@
       "id": "iphone-17e",
       "name": "سعر ومواصفات ايفون 17e عيوب ومميزات iPhone 17e",
       "url": "https://mob4g.com/specs/iphone-17e/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "iphone-18-pro",
+      "name": "سعر ومواصفات ايفون 18 برو عيوب ومميزات iPhone 18 Pro",
+      "url": "https://mob4g.com/specs/iphone-18-pro/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "name": "سعر ومواصفات ايفون 18 برو ماكس عيوب ومميزات iPhone 18 Pro Max",
+      "url": "https://mob4g.com/specs/iphone-18-pro-max/",
       "image": "https://mob4g.com/",
       "price": 0,
       "releaseYear": 2026,
@@ -1686,15 +1704,6 @@
       "verified": true
     },
     {
-      "id": "vivo-x500",
-      "name": "سعر ومواصفات فيفو X500 عيوب ومميزات Vivo X500",
-      "url": "https://mob4g.com/specs/vivo-x500/",
-      "image": "https://mob4g.com/",
-      "price": 820,
-      "releaseYear": 2026,
-      "verified": true
-    },
-    {
       "id": "vivo-y05",
       "name": "سعر ومواصفات فيفو Y05 عيوب ومميزات Vivo Y05",
       "url": "https://mob4g.com/specs/vivo-y05/",
@@ -2469,6 +2478,15 @@
       "verified": true
     },
     {
+      "id": "honor-pad-x10-pro-max",
+      "name": "سعر ومواصفات هونر باد X10 برو ماكس عيوب ومميزات Honor Pad X10 Pro Max",
+      "url": "https://mob4g.com/specs/honor-pad-x10-pro-max/",
+      "image": "https://mob4g.com/",
+      "price": 300,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "honor-pad-x8b",
       "name": "سعر ومواصفات هونر باد X8b عيوب ومميزات Honor Pad X8b",
       "url": "https://mob4g.com/specs/honor-pad-x8b/",
@@ -2600,6 +2618,15 @@
       "url": "https://mob4g.com/specs/honor-magicpad-3-pro-12-3/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "honor-magicpad-4-12-1",
+      "name": "سعر ومواصفات هونر ماجيك باد 4 12.1 عيوب ومميزات Honor MagicPad 4 12.1",
+      "url": "https://mob4g.com/specs/honor-magicpad-4-12-1/",
+      "image": "https://mob4g.com/",
+      "price": 555,
       "releaseYear": 2026,
       "verified": true
     },
