@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T07:24:34.153Z",
-  "count": 2211,
+  "generatedAt": "2026-11-12T20:01:36.493Z",
+  "count": 2217,
   "items": [
     {
       "id": "infinix-gt-50-pro",
@@ -1254,6 +1254,24 @@
       "verified": true
     },
     {
+      "id": "samsung-galaxy-a08",
+      "name": "سعر ومواصفات سامسونج A08 عيوب ومميزات Samsung A08",
+      "url": "https://mob4g.com/specs/samsung-galaxy-a08/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "samsung-galaxy-a18",
+      "name": "سعر ومواصفات سامسونج A18 عيوب ومميزات Samsung A18",
+      "url": "https://mob4g.com/specs/samsung-galaxy-a18/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "samsung-galaxy-a27",
       "name": "سعر ومواصفات سامسونج A27 عيوب ومميزات Samsung A27",
       "url": "https://mob4g.com/specs/samsung-galaxy-a27/",
@@ -2343,6 +2361,24 @@
       "verified": true
     },
     {
+      "id": "honor-x5d-s",
+      "name": "سعر ومواصفات هونر X5d اس عيوب ومميزات Honor X5d s",
+      "url": "https://mob4g.com/specs/honor-x5d-s/",
+      "image": "https://mob4g.com/",
+      "price": 150,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "honor-x5d-plus-s",
+      "name": "سعر ومواصفات هونر X5d بلس اس عيوب ومميزات Honor X5d Plus s",
+      "url": "https://mob4g.com/specs/honor-x5d-plus-s/",
+      "image": "https://mob4g.com/",
+      "price": 195,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "honor-x5d-plus",
       "name": "سعر ومواصفات هونر X5d بلس عيوب ومميزات Honor X5d Plus",
       "url": "https://mob4g.com/specs/honor-x5d-plus/",
@@ -2532,11 +2568,29 @@
       "verified": true
     },
     {
+      "id": "honor-play-11",
+      "name": "سعر ومواصفات هونر بلاي 11 عيوب ومميزات Honor Play 11",
+      "url": "https://mob4g.com/specs/honor-play-11/",
+      "image": "https://mob4g.com/",
+      "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
       "id": "honor-play-20a",
       "name": "سعر ومواصفات هونر بلاي 20A عيوب ومميزات Honor Play 20A",
       "url": "https://mob4g.com/specs/honor-play-20a/",
       "image": "https://mob4g.com/",
       "price": 0,
+      "releaseYear": 2026,
+      "verified": true
+    },
+    {
+      "id": "honor-play-20c",
+      "name": "سعر ومواصفات هونر بلاي 20C عيوب ومميزات Honor Play 20C",
+      "url": "https://mob4g.com/specs/honor-play-20c/",
+      "image": "https://mob4g.com/",
+      "price": 125,
       "releaseYear": 2026,
       "verified": true
     },
